@@ -35,7 +35,6 @@ SOFTWARE.
 
 SAR -- Search and Rescue
 
-
 ## Introduction
 
 This document is a complete operations manual for a search and rescue drone team
