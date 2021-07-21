@@ -43,6 +43,7 @@ SAR -- Search and Rescue
   - [Table of Contents](#table-of-contents)
   - [Accompanying Documents](#accompanying-documents)
     - [Checklists](#checklists)
+    - [Other](#other)
   - [Introduction](#introduction)
   - [Pilot Training](#pilot-training)
   - [Technical Regulations](#technical-regulations)
@@ -52,6 +53,17 @@ SAR -- Search and Rescue
 ## Accompanying Documents
 
 ### Checklists
+
+- PRE-DEPARTURE
+- PRE-FLIGHT
+- INTRA-FLIGHT
+- POST-FLIGHT
+- POST-MISSION
+- EMERGENCY
+
+### Other
+
+- Copy of current regulations
 
 ## Introduction
 
