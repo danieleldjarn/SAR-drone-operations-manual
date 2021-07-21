@@ -37,7 +37,21 @@ SAR -- Search and Rescue
 
 ## Table of Contents
 
+- [Search And Rescue Drone Operations Manual](#search-and-rescue-drone-operations-manual)
+  - [About this document](#about-this-document)
+  - [Abbreviations](#abbreviations)
+  - [Table of Contents](#table-of-contents)
+  - [Accompanying Documents](#accompanying-documents)
+    - [Checklists](#checklists)
+  - [Introduction](#introduction)
+  - [Pilot Training](#pilot-training)
+  - [Technical Regulations](#technical-regulations)
+  - [Operational Regulations](#operational-regulations)
+  - [Apendix A - Checklists](#apendix-a---checklists)
+
 ## Accompanying Documents
+
+### Checklists
 
 ## Introduction
 
